@@ -83,4 +83,4 @@ Este proyecto no está afiliado a ONLYOFFICE ni a Ascensio System SIA. Se entreg
 
 ## Licencia
 
-Uso Libre
+MIT
