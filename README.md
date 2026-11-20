@@ -83,4 +83,4 @@ Este proyecto no está afiliado a ONLYOFFICE ni a Ascensio System SIA. Se entreg
 
 ## Licencia
 
-Elegí la licencia del repositorio (por ejemplo MIT) y agregá el archivo `LICENSE`.
+Uso Libre
